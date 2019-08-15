@@ -1,0 +1,2 @@
+include ':events'
+rootProject.name='Live Events'
